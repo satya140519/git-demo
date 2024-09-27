@@ -1,6 +1,6 @@
 a
 b
 c # updating line 3
-d
+d # updating line 4
 e
 
